@@ -1,9 +1,11 @@
 # Collaborative-Filtering
 
-	Designed a program in Java to read data from files with I/O, process them, and print out the result.
+⚫ Designed a program in Java to read data from files with I/O, process them, and print out the result.
 
-	Developed functions to analyze similarity between pairs of data.
+⚫ Developed functions to analyze the similarity between pairs of data.
 
-	Coded in Java because Java is good for learning software engineering.
+⚫ Built different classes following efficient design principles and patterns, such as publish-subscribe.
 
-	Used Subversion to get used to version control tools.
+⚫ Coded in Java because Java is good for learning and applying software design principles.
+
+⚫ Used Subversion for version control to simulate a software development process.
